@@ -1,0 +1,4 @@
+pygame
+windows-curses
+opencv-python
+ultralytics
